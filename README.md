@@ -8,7 +8,7 @@
 </div>
 <h2 class="heading-element" dir="auto">🏆 Dineth's Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=dinethjr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4">
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinethjr&label=Profile%20views&color=0e75b6&style=flat" alt="dinethjr" /> </p>
 
 
