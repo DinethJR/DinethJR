@@ -33,6 +33,8 @@
     </a>
     <a href="https://twitter.com/example" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+    </a><a href="https://www.hackerrank.com/example" target="_blank">
+      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
     </a>
 
 <h3 align="left">Languages and Tools:</h3>
