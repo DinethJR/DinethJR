@@ -4,6 +4,9 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&theme=algolia&layout=compact" alt="jaypavasiya" /></p> 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaypavasiya&theme=algolia" alt="jaypavasiya" /></p>
 
+<h2 class="heading-element" dir="auto">🏆 Dineth's Trophies</h2>
+![](https://github-profile-trophy.vercel.app/?username=dinethjr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinethjr&label=Profile%20views&color=0e75b6&style=flat" alt="dinethjr" /> </p>
 
@@ -21,7 +24,7 @@
     alt="example" />
 </p>
 
-![](https://github-profile-trophy.vercel.app/?username=dinethjr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
