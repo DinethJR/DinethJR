@@ -85,7 +85,8 @@
      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
        <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 <br>
-
+<br>
+<br>
 <div width="100%" align="center">
   <a href="https://www.buymeacoffee.com/Dineth Jayawickrama"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a> 
 </div>
