@@ -43,7 +43,6 @@
       <a href="https://facebook.com/iptu.fba" target="_blank">
       <img src="https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
     </a>
-<br> <br>
      <a href="https://www.instagram.com/brantlauro/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
     </a>
