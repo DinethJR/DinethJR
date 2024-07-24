@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dineth Jayawickrama</h1>
 <h3 align="center">Passionate IT Student | Tech Enthusiaat 🤖</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&theme=algolia&layout=compact" alt="jaypavasiya" /></p> 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaypavasiya&theme=algolia" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethjr&theme=algolia&layout=compact" alt="jaypavasiya" /></p> 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dinethjr&theme=algolia" alt="jaypavasiya" /></p>
 
 <h2 class="heading-element" dir="auto">🏆 Dineth's Trophies</h2>
 ![](https://github-profile-trophy.vercel.app/?username=dinethjr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
@@ -23,7 +23,6 @@
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
 
 
 <h3 align="left">Connect with me:</h3>
