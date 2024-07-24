@@ -1,7 +1,9 @@
 <h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm Dineth Jayawickrama</h1>
 <h3 align="center">Passionate IT Student | Tech Enthusiaat 🤖</h3>
+
 <div width="100%" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethjr&theme=algolia&layout=compact" alt="jaypavasiya" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinethjr&theme=algolia" alt="jaypavasiya" />
 </div>
 <h2 class="heading-element" dir="auto">🏆 Dineth's Trophies</h2>
