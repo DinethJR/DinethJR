@@ -28,6 +28,14 @@
 <a href="https://www.hackerrank.com/profile/dineth2226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dineth jayawickrama" height="30" width="40" /></a>
 <a href="https://discord.gg/@dinethjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@dinethjr" height="30" width="40" /></a>
 </p>
+<a  href="https://linkedin.com/in/example" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://twitter.com/example" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+    </a>
+
+<h3 align="left">Languages and Tools:</h3>
 
 <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
     alt="example" />
