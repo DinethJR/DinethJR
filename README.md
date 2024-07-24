@@ -14,6 +14,10 @@
 - 📫 How to reach me **dineth2226@gmail.com**
 
 - ⚡ Fun fact **Call me as Sama**
+- <p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
