@@ -24,7 +24,7 @@
 <a href="https://instagram.com/_.dine.th._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.dine.th._" height="30" width="40" /></a>
 <a href="https://medium.com/@dineth2226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dineth2226" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@dinethjayawickrama4725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dinethjayawickrama4725" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dineth jayawickrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dineth jayawickrama" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/dineth2226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dineth jayawickrama" height="30" width="40" /></a>
 <a href="https://discord.gg/@dinethjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@dinethjr" height="30" width="40" /></a>
 </p>
 
