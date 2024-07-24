@@ -29,27 +29,30 @@
 <a href="https://discord.gg/@dinethjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@dinethjr" height="30" width="40" /></a>
 </p>
 
-<a  href="https://linkedin.com/in/example" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://twitter.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a><a href="https://www.hackerrank.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
-    </a><a href="https://medium.com/@example" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
-    </a>
-     </a>
-      <a href="https://facebook.com/iptu.fba" target="_blank">
-      <img src="https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
-    </a>
-     <a href="https://www.instagram.com/brantlauro/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity" target="_blank">
-      <img src="https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow" alt="example"/>
-    </a>
-    <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a  href="https://linkedin.com/in/dineth-jayawickrama-7207702a0" target="_blank">
+  <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+</a>
+<a href="https://twitter.com/dineth77143441" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+</a>
+<a href="https://www.hackerrank.com/profile/dineth2226" target="_blank">
+  <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
+</a>
+<a href="https://medium.com/@dineth2226" target="_blank">
+  <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
+</a>
+<a href="https://fb.com/dineth.jayawickrama.90/" target="_blank">
+  <img src="https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
+</a>
+ <a href="https://instagram.com/_.dine.th._" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
+</a>
+<a href="https://stackoverflow.com/users/25628751/dineth-jayawickrama" target="_blank">
+     <img src="https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow" alt="example"/>
+</a>
+<a href="https://www.youtube.com/@dinethjayawickrama4725">
+  <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
