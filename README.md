@@ -42,6 +42,11 @@
      </a><a href="https://www.instagram.com/brantlauro/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
     </a>
+    <a href="https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity" target="_blank">
+      <img src="https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow" alt="example"/>
+    </a>
+    <a href="https://www.youtube.com/c/DevProTips"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
