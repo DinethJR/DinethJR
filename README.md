@@ -39,7 +39,12 @@
     </a><a href="https://medium.com/@example" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
     </a>
-     </a><a href="https://www.instagram.com/brantlauro/" target="_blank">
+     </a>
+      <a href="https://facebook.com/iptu.fba" target="_blank">
+      <img src="https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="example"/>
+    </a>
+<br> <br>
+     <a href="https://www.instagram.com/brantlauro/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
     </a>
     <a href="https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity" target="_blank">
