@@ -5,7 +5,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dinethjr&theme=algolia" alt="jaypavasiya" /></p>
 
 <h2 class="heading-element" dir="auto">🏆 Dineth's Trophies</h2>
-<img src="https://camo.githubusercontent.com/33e9ad5c36c513d78bbd0a6d8ab1cadf1e715ea53dc4e341969747c86097d72c/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616e6465726d656e646f7a61267468656d653d64726163756c6126636f6c756d6e3d37" alt="andermendoza" data-canonical-src="https://github-profile-trophy.vercel.app/?username=dinethjr&amp;theme=dracula&amp;column=7" style="max-width: 100%;">
 <img src="https://github-profile-trophy.vercel.app/?username=dinethjr&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinethjr&label=Profile%20views&color=0e75b6&style=flat" alt="dinethjr" /> </p>
