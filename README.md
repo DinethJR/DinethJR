@@ -17,17 +17,6 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dineth77143441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dineth77143441" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dineth-jayawickrama-7207702a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineth-jayawickrama-7207702a0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25628751/dineth-jayawickrama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25628751/dineth-jayawickrama" height="30" width="40" /></a>
-<a href="https://fb.com/dineth.jayawickrama.90/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dineth.jayawickrama.90/" height="30" width="40" /></a>
-<a href="https://instagram.com/_.dine.th._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.dine.th._" height="30" width="40" /></a>
-<a href="https://medium.com/@dineth2226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dineth2226" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@dinethjayawickrama4725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dinethjayawickrama4725" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/dineth2226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dineth jayawickrama" height="30" width="40" /></a>
-<a href="https://discord.gg/@dinethjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@dinethjr" height="30" width="40" /></a>
-</p>
 
 <a  href="https://linkedin.com/in/dineth-jayawickrama-7207702a0" target="_blank">
   <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
@@ -95,7 +84,7 @@
      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
        <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-
+<br>
 
 <div width="100%" align="center">
   <a href="https://www.buymeacoffee.com/Dineth Jayawickrama"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a> 
