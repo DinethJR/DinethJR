@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dineth Jayawickrama</h1>
+<h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm Dineth Jayawickrama</h1>
 <h3 align="center">Passionate IT Student | Tech Enthusiaat 🤖</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethjr&theme=algolia&layout=compact" alt="jaypavasiya" /></p> 
