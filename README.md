@@ -28,6 +28,7 @@
 <a href="https://www.hackerrank.com/profile/dineth2226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dineth jayawickrama" height="30" width="40" /></a>
 <a href="https://discord.gg/@dinethjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@dinethjr" height="30" width="40" /></a>
 </p>
+
 <a  href="https://linkedin.com/in/example" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
@@ -37,6 +38,9 @@
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
     </a><a href="https://medium.com/@example" target="_blank">
       <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
+    </a>
+     </a><a href="https://www.instagram.com/brantlauro/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
     </a>
 
 <h3 align="left">Languages and Tools:</h3>
