@@ -3,7 +3,6 @@
 
 <div width="100%" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethjr&theme=algolia&layout=compact" alt="jaypavasiya" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinethjr&theme=algolia" alt="jaypavasiya" />
 </div>
 <h2 class="heading-element" dir="auto">🏆 Dineth's Trophies</h2>
